@@ -70,6 +70,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/sushim123/sushim123/output/snake.svg" alt="Snake animation" />
 
 ###
